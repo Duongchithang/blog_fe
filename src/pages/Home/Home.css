@@ -1,0 +1,21 @@
+.home-title{
+   font-size: 56px;
+   margin-top: 20px;
+   margin-bottom: 70px;
+   color: var(--color-text);
+   font-weight: 600;
+}
+.MuiButton-root{
+   font-weight: 700;
+   font-family: 'Chivo Mono', monospace;
+      font-family: 'Fira Code', monospace;
+      font-family: 'Open Sans', sans-serif;
+      font-family: 'Poppins', sans-serif;
+}
+@media only screen and (max-width : 576px) {
+   .home-title{
+      margin-top: 50px;
+      font-size: 35px;
+      margin-bottom: 20px;
+   }
+}

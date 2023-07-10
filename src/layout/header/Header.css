@@ -1,0 +1,48 @@
+.container-header{
+    background-color: rgba(255, 255, 255, 0.03);
+}
+.logo{
+    color: var(--color-text);
+    font-size: 25px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}
+
+.logo:hover{
+    color: var(--color-button);
+}
+.container-navbar{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+    padding: 10px 0px;
+}
+.menu-item{
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.icons-dropdown{
+    color: var(--color-text);
+}
+.list-item{
+    color: var(--color-text);
+    font-weight: 400;
+    margin-bottom: 0;
+}
+.btn-signin{
+    color: var(--color-button);
+    padding: 10px 20px;
+    text-align: center;
+    border: 2px solid var(--color-button);
+    border-radius: 10px;
+    transition: all 0.2s linear;
+}
+.btn-signin:hover{
+    color: #70a4ec;
+    border-color: #72a7f1;
+}
+@media only screen and (max-width : 500px) {
+    /* .show{
+        display: none;
+    } */
+}

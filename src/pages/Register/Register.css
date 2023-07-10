@@ -1,0 +1,15 @@
+.container-register{
+    background-color: rgba(255, 255, 255, 0.03);
+    border-radius: 10px;
+    padding: 40px;
+}
+.title-register{
+    color: white;
+    font-size: 24px;
+
+}
+.register-back{
+    border-top: 1px dashed white;
+    padding-top: 20px;
+    margin-top: 20px;
+}

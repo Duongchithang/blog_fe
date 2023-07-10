@@ -1,0 +1,42 @@
+.form-login{
+    padding: 60px;
+    background-color: rgba(255, 255, 255, 0.03);
+    border-radius: 10px;
+}
+.head-form{
+    color: var(--color-text);
+}
+.check-box{
+    color: var(--color-text);
+}
+.forgot-password{
+    text-decoration: none;
+    color: var(--color-text);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.MuiFormLabel-root{
+    color: var(--color-text) !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+}
+.MuiOutlinedInput-notchedOutline{
+    border: 2px solid white !important;
+}
+.MuiInputBase-root{
+    color: var(--color-text) !important;
+    font-size: 16px !important;
+        font-weight: 500 !important;
+}
+.MuiButtonBase-root{
+    font-size: 18px !important;
+    font-weight: 500 !important;
+}
+.MuiCheckBox-root{
+   background-color: var(--color-text) !important;
+    color: var(--color-text) !important;
+}
+.Mui-disabled{
+    color: white;
+}

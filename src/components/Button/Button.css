@@ -1,0 +1,14 @@
+.btn-layout{
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    background: var(--color-button);
+    padding: 12px 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+box-icon{
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+}
