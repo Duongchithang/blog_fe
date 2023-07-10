@@ -1,1 +1,1 @@
-export const URL_BACKEND = `http://chithangdevblog.somee.com`;
+export const URL_BACKEND = `https://chithangdevblog.somee.com`;
